@@ -1,0 +1,3 @@
+streamlit>=1.31
+st-clickable-images>=0.0.3
+Pillow>=10.0.0
